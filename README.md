@@ -1,2 +1,2 @@
-# datasciencecoursera
-A curated collection of professional materials, projects, or creative work samples
+# Data Science Toolbox Project
+This repository is created for the Coursera Data Scientist's Toolbox course project.
